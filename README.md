@@ -1,2 +1,2 @@
-# roy-sc
+# CodeVsCovid-Hackathon-BaguetteTeam
 CodeVsCovid-Hackathon-BaguetteTeam
