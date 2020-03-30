@@ -1,2 +1,2 @@
-# CodeVsCovid-Hackathon-BaguetteTeam
-CodeVsCovid-Hackathon-BaguetteTeam
+# CodeVsCovid-Hackathon
+CodeVsCovid-Hackathon
